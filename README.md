@@ -25,6 +25,19 @@ Aggregated columns were created to explore brand performance and product type sa
 - Total sold items by brand and product type.
 - Sales distribution across locations.
 - Top 5 best-selling perfumes for both men’s and women’s categories.
+```sql
+ --Most sold perfume (Male edition)
+  select top 5 max(sold) sold_, type, title
+  from [dbo].[ebay_mens_perfume$]
+  group by type, title
+  order by sold_ desc
+
+  --Most sold perfume (Female edition)
+  select top 5 max(sold) sold_, type, title
+  from [dbo].['ebay_womens_perfume(1)$']
+  group by type, title
+  order by sold_ desc
+```
 #### Insights:
 - The number of brands that cater to both male and female perfumes.
 - The most sold perfume and total sales by price.
