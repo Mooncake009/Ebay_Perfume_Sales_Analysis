@@ -1,6 +1,6 @@
 # eBay Perfume Sales Dashboard Analysis
 ### Project Overview 
-This project involved analyzing eBay's perfume sales data for both men's and women's perfumes. Data cleaning and exploration were done using SQL, and the final analysis was visualized using Power BI. The goal was to uncover key insights into top-selling brands, product types, and sales distribution, and present the findings in an interactive dashboard. he dashboard focuses on providing clear visual representations to help stakeholders understand performance trends.
+This project involved analyzing eBay's perfume sales data for both men's and women's perfumes. Data cleaning and exploration were done using SQL, and the final analysis was visualized using Power BI. The goal was to uncover key insights into top-selling brands, product types, and sales distribution, and present the findings in an interactive dashboard. The dashboard focuses on providing clear visual representations to help stakeholders understand performance trends.
 
 ### Dataset Description 
 #### Source: 
