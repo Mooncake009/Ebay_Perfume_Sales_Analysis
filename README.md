@@ -40,7 +40,7 @@ Aggregated columns were created to explore brand performance and product type sa
 ```
 #### Insights:
 - The number of brands that cater to both male and female perfumes.
-- The most sold perfume and total sales by price.
+- The perfume that is sold the most and the total sales by price.
 
 ### Conclusion/Recommendation
 #### Findings:
